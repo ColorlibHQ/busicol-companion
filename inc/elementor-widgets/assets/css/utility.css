@@ -1,0 +1,39 @@
+/* -------------------------
+:: utility Class
+---------------------------- */
+.busicol-pt-100 {
+    padding-top: 100px;
+}
+.busicol-pt-80 {
+    padding-top: 80px;
+}
+.busicol-pt-70 {
+    padding-top: 70px;
+}
+.busicol-pt-60 {
+    padding-top: 60px;
+}
+.busicol-pt-50 {
+    padding-top: 50px;
+}
+.busicol-pt-30 {
+    padding-top: 30px;
+}
+.busicol-pb-100 {
+    padding-bottom: 100px;
+}
+.busicol-pb-80 {
+    padding-bottom: 80px;
+}
+.busicol-pb-70 {
+    padding-bottom: 70px;
+}
+.busicol-pb-60 {
+    padding-bottom: 60px;
+}
+.busicol-pb-50 {
+    padding-bottom: 50px;
+}
+.busicol-pb-30 {
+    padding-bottom: 30px;
+}
